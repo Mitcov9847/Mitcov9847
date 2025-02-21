@@ -4,7 +4,7 @@
 
 # Аватар
 
-![image](images/Avatar.png)
+![image](images/avatar01.png)
 
 # О себе
 
@@ -35,7 +35,6 @@
 - **C#** — для разработки мощных корпоративных решений.
 
 # Как со мной связаться
-
 Если вы хотите обсудить идеи или просто пообщаться, я всегда рад новым контактам!  
 - Email: [jeniamitcov@mail.ru]  
 - LinkedIn: [[github](https://github.com/Mitcov9847)]
